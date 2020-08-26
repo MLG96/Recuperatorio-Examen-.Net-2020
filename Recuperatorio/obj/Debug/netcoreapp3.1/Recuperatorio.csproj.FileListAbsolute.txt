@@ -1,0 +1,13 @@
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.exe
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.deps.json
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.runtimeconfig.json
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.runtimeconfig.dev.json
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.dll
+C:\Users\Chronos\Desktop\Recuperatorio\bin\Debug\netcoreapp3.1\Recuperatorio.pdb
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.csprojAssemblyReference.cache
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.AssemblyInfoInputs.cache
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.AssemblyInfo.cs
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.dll
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.pdb
+C:\Users\Chronos\Desktop\Recuperatorio\obj\Debug\netcoreapp3.1\Recuperatorio.genruntimeconfig.cache
